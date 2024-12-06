@@ -7,13 +7,13 @@ This is a small project from my Programing 1 module at my university. The proble
 
 
 ## Installation
-Just clone the repository by executing this command in the shell 
+Just clone the repository by executing this command in the shell:
 ```sh 
 git clone https://github.com/khangnguyen0810/Project-1.git
 ```
 ## Usage
 Run the **project.c** in **project** folder.
-A new image without background and a final image with desired background are created in the folder **images** 
+A new image without background and a final image with desired background are created in the folder **images**:
 
 ![new_image](https://github.com/user-attachments/assets/9085c1cb-36b1-41fd-bf9c-f1fbb295f49b)
 ![new_image2](https://github.com/user-attachments/assets/8b8cd151-a5e0-453f-98b4-b51a2a4e6171)
